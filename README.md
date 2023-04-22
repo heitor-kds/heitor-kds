@@ -7,8 +7,6 @@
 - 💡 I love to learn new languages and applications, and would love to collaborate on any projects!
 - 🕛 I am currently working on recreating Conway's Game of Life using C#.
 
-![gol](https://user-images.githubusercontent.com/129128120/233795808-594887e6-8081-45d9-bf09-55cc83adc535.gif) ![gol](https://user-images.githubusercontent.com/129128120/233795808-594887e6-8081-45d9-bf09-55cc83adc535.gif)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/heitor-krete-de-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heitor-krete-de-souza" height="30" width="40" /></a>
