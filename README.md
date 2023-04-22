@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Heitor</h1>
+<h3 align="center">An aspiring Automation and Software Engineer!</h3>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/129128120/233796674-6108072d-eeda-4e22-939d-7c274e9359cd.gif" />
 </p>
-<h3 align="center">An aspiring Automation and Software Engineer!</h3>
+
 
 - 🔭 I’m currently studying **Dual Bachelors of Mathematics and Computer & Software Systems Engineering (Honours)** at QUT
 - 📫 Reach me on **kdsheitor@gmail.com**
