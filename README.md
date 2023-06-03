@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently studying **Dual Bachelors of Mathematics and Computer & Software Systems Engineering (Honours)** at QUT
-- 🪙 I've undertaken numerous projects for my university degree; mostly with Arduino/PCB design, Numerical Modelling and Data Manipulation.
+- 🪙 I've undertaken numerous projects for my university degree; involving Arduino/PCB design, Numerical Modelling, Software Development and Data Manipulation.
 - 💡 I love to learn new languages and applications, and would love to collaborate on any projects!
 - 🕛 I am currently working on recreating Conway's Game of Life using C#.
 - 📧 Reach me on **kdsheitor@gmail.com**
